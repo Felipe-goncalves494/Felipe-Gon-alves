@@ -61,3 +61,4 @@
 Inteligência Artificial
 - UI/UX Design
 - Hardware Development
+- Machine Learning
