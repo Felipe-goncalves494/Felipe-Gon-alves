@@ -17,7 +17,7 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-![Fortran](https://upload.wikimedia.org/wikipedia/commons/0/0f/Fortran_logo.svg)
+![Fortran](https://fortran-lang.org/assets/img/fortran-logo.png)
 
 
 ## Bibliotecas e Frameworks Python
