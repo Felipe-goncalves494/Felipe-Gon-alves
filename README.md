@@ -17,6 +17,8 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+![Fortran](https://upload.wikimedia.org/wikipedia/commons/0/0f/Fortran_logo.svg)
+
 
 ## Bibliotecas e Frameworks Python
 - *Matplotlib*
@@ -67,8 +69,7 @@
 
 ## Tecnologias em Aprendizado/Meta
 
--![AI]
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Artificial_Intelligence_logo.png" alt="IA" width="50"/>
+-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="50"/>
 
 - UI/UX Design
 - Hardware Development
