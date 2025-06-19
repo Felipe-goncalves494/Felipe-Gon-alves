@@ -19,7 +19,13 @@
 
 
 ## Bibliotecas e Frameworks Python
-- **requests**, **pandas**, **itertools**, **os**, **sys**, **random**, **secrets**, **hashlib**, **json**, **time**, **subprocess**
+- *Matplotlib*
+- *Pandas* 
+- *Tensorflow*
+- *Pyinstaller*
+
+  
+
 
 ## Controle de Versão
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,6 +41,8 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Tux Linux" width="50"/>
 
 
 ## Cibersegurança
@@ -53,12 +61,17 @@
 - Aprendizagem autodidata
 - Pensamento crítico e estratégico
 - Empreendedorismo e liderança
+- Solução criativa de problemas 
+- Trabalho em equipe 
+- Divisão de tarefas 
 
 ## Tecnologias em Aprendizado/Meta
 
 -![AI]
-(https://img.shields.io/badge/AI-191970?style=for-the-badge&logo=openai&logoColor=white) 
-Inteligência Artificial
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Artificial_Intelligence_logo.png" alt="IA" width="50"/>
+
 - UI/UX Design
 - Hardware Development
 - Machine Learning
+- Cibersegurança
+- Engenharia de prompt 
